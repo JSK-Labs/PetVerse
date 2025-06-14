@@ -60,6 +60,3 @@ Submit a Pull Request with a description of your improvements.
 ## 📄 License  
 [![MIT License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)  
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details. 
-
-
- 
