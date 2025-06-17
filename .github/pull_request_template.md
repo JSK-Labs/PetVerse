@@ -1,11 +1,17 @@
-# Task name here
+# 📝 Description
+Briefly describe what this PR does. What problem does it solve or what feature does it implement?
 
-Fixes #relevant-issue-here
+# 📸 Screenshots (if applicable)
+Include images or GIFs to illustrate any visual changes.
 
-## Types of change
+# ✅ Checklist
+- [ ] Code runs correctly locally
+- [ ] Tests have been added (if applicable)
+- [ ] Documentation is updated
+- [ ] Code follows the project’s conventions (formatting, linting)
 
-- [ ] Feature
-- [ ] Bug
-- [ ] Enhancement
+# 📌 References
+Link any related issues, stories, or tasks.
 
-## Comments (optional)
+# 🧪 How to test
+Steps to manually test this functionality.

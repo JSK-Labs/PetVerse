@@ -1,7 +1,20 @@
-## Issue Overview
+## 🧩 Context
+Briefly describe the technical or functional background of the issue or request.
+Close #
 
-Provide a brief summary of the issue, including the motivation for addressing it, the problems it presents, and any features required to resolve it.
+## 🎯 Objective
+What is the expected deliverable or result?
 
-## Proposed Solutions or Ideas
+## 🗺️ Scope
+- What is included
+- What is not included
 
-Outline your proposed solution or share any ideas you have for discussing or resolving the issue.
+## 🛠️ Suggested Steps
+1. Describe step by step what should be done to address this issue.
+
+## ✅ Acceptance Criteria
+- How do we know the issue is correctly resolved?
+
+## 📚 Relevant Resources
+- [Any useful technical documentation]
+- [Designs, mockups, diagrams]
