@@ -11,14 +11,14 @@ import {
   Users,
   Heart,
 } from "lucide-react";
-import { BusinessCover } from "../components/business/BusinessCover";
-import { BusinessLogo } from "../components/business/BusinessLogo";
-import { BusinessHeader } from "../components/business/BusinessHeader";
-import { BusinessTabs } from "../components/business/BusinessTabs";
-import { BusinessServices } from "../components/business/BusinessServices";
-import { BusinessTeam } from "../components/business/BusinessTeam";
-import { BusinessReviews } from "../components/business/BusinessReviews";
-import { BusinessPosts } from "../components/business/BusinessPosts";
+import { BusinessCover } from "../../../components/petverse/src/components/business/BusinessCover";
+import { BusinessLogo } from "../../../components/petverse/src/components/business/BusinessLogo";
+import { BusinessHeader } from "../../../components/petverse/src/components/business/BusinessHeader";
+import { BusinessTabs } from "../../../components/petverse/src/components/business/BusinessTabs";
+import { BusinessServices } from "../../../components/petverse/src/components/business/BusinessServices";
+import { BusinessTeam } from "../../../components/petverse/src/components/business/BusinessTeam";
+import { BusinessReviews } from "../../../components/petverse/src/components/business/BusinessReviews";
+import { BusinessPosts } from "../../../components/petverse/src/components/business/BusinessPosts";
 
 export const BusinessProfile: React.FC = () => {
   const [activeTab, setActiveTab] = useState("overview");
