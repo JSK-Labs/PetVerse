@@ -1,13 +1,13 @@
 "use client";
 
 import { useState } from "react";
-import { GovernanceHeader } from "./components/Dao/governance-header";
-import { ActiveProposals } from "./components/Dao/active-proposal";
-import { RecentProposals } from "./components/Dao/recent-proposal";
-import { UserStats } from "./components/Dao/user-stats";
-import { QuickActions } from "./components/Dao/quick-actions";
-import { GovernanceCalendar } from "./components/Dao/governance-calendar";
-import { DAOTreasury } from "./components/Dao/dao-treasure";
+import { GovernanceHeader } from "../../../components/petverse/src/components/Dao/governance-header";
+import { ActiveProposals } from "../../../components/petverse/src/components/Dao/active-proposal";
+import { RecentProposals } from "../../../components/petverse/src/components/Dao/recent-proposal";
+import { UserStats } from "../../../components/petverse/src/components/Dao/user-stats";
+import { QuickActions } from "../../../components/petverse/src/components/Dao/quick-actions";
+import { GovernanceCalendar } from "../../../components/petverse/src/components/Dao/governance-calendar";
+import { DAOTreasury } from "../../../components/petverse/src/components/Dao/dao-treasure";
 
 // Sample data (can be moved to a separate file if needed)
 const activeProposals = [
