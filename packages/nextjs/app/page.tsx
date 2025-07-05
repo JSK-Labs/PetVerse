@@ -1,6 +1,7 @@
 import Link from "next/link";
 import Image from "next/image";
 import { ConnectedAddress } from "~~/components/ConnectedAddress";
+import { MapSection } from "./(petverse)/pages/services";
 
 const Home = () => {
   return (
@@ -57,6 +58,7 @@ const Home = () => {
         </div>
       </div>
     </div>
+ 
   );
 };
 
