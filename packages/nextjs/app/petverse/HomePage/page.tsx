@@ -1,12 +1,12 @@
 'use client';
 
-import { HeroSection } from '../../components/HomePage/HeroSection';
-import { PostInput } from '../../components/HomePage/PostInput';
-import { PostList } from '../../components/HomePage/PostList';
-import { YourImpact } from '../../components/HomePage/Sidebar/Impact';
-import { ActiveCampaigns } from '../../components/HomePage/Sidebar/ActiveCampaigns';
-import { UpcomingEvents } from '../../components/HomePage/Sidebar/UpcomingEvents';
-import { Notifications } from '../../components/HomePage/Sidebar/Notifications';
+import { HeroSection } from '../../../components/petverse/src/components/HomePage/HeroSection';
+import { PostInput } from '../../../components/petverse/src/components/HomePage/PostInput';
+import { PostList } from '../../../components/petverse/src/components/HomePage/PostList';
+import { YourImpact } from '../../../components/petverse/src/components/HomePage/Sidebar/Impact';
+import { ActiveCampaigns } from '../../../components/petverse/src/components/HomePage/Sidebar/ActiveCampaigns';
+import { UpcomingEvents } from '../../../components/petverse/src/components/HomePage/Sidebar/UpcomingEvents';
+import { Notifications } from '../../../components/petverse/src/components/HomePage/Sidebar/Notifications';
 
 export default function HomePage() {
   return (

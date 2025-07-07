@@ -1,6 +1,6 @@
 'use client';
 
-import { posts } from '../../mock/posts';
+import { posts } from '../../../../../mock/posts';
 import { PostCard } from './PostCard';
 
 export const PostList: React.FC = () => {
